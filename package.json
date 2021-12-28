@@ -14,7 +14,7 @@
     "complete",
     "tutorial"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "http-server": "^14.0.0"
